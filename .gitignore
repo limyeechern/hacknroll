@@ -1,0 +1,8 @@
+ml/__pycache__
+ml/venv
+server/vendor
+mycommunity-frontend/node_modules
+model training/venv
+ml/.idea
+model training/.idea
+model training/__pycache__
