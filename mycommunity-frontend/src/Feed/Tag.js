@@ -32,12 +32,13 @@ function Tag({ data }) {
     <>
       <div
         style={{
-          border: "1px solid #C4BAA6",
-          fontSize: "20px",
+          border: "0.5px solid white",
+          fontSize: "17px",
+          color: "white",
           padding: "0px 7px 0px 7px",
           marginRight: "5px",
           borderRadius: "10px",
-          backgroundColor: "rgb(50,50,50,0.5)",
+          backgroundColor: "rgb(255,255,255,0.2)",
           cursor: "pointer",
         }}
         onClick={handleOpen}
